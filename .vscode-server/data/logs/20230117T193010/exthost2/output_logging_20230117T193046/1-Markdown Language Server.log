@@ -1,0 +1,25 @@
+[Trace 19:31:03.663] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/ec2-user/README.md
+[Trace 19:31:03.668] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/README.md
+[Trace 19:31:03.671] Server: connection.languages.diagnostics.on: file:///home/ec2-user/README.md
+[Trace 19:31:03.676] Server: connection.languages.diagnostics.on: file:///home/ec2-user/README.md
+[Trace 19:31:03.909] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/README.md 1
+[Debug 19:31:03.910] LinkProvider: compute - file:///home/ec2-user/README.md
+[Debug 19:31:04.108] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/README.md 1
+[Debug 19:31:04.109] TableOfContentsProvider: create - file:///home/ec2-user/README.md
+[Trace 19:31:04.492] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/README.md
+[Trace 19:31:04.493] Server: connection.languages.diagnostics.on: file:///home/ec2-user/README.md
+[Debug 19:31:04.716] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/README.md 2
+[Debug 19:31:04.717] TableOfContentsProvider: create - file:///home/ec2-user/README.md
+[Trace 19:31:04.921] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/README.md 2
+[Debug 19:31:04.921] LinkProvider: compute - file:///home/ec2-user/README.md
+[Trace 19:31:10.024] VsCodeClientWorkspace: onDidChangeWatchedFiles: 2: file:///home/ec2-user/README.md
+[Trace 19:31:10.327] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/ec2-user/.vscode-server/data/User/History/4c7411d5/NSwv.md
+[Trace 19:31:12.702] Server: connection.languages.diagnostics.on: file:///home/ec2-user/README.md
+[Trace 19:32:31.697] Server: connection.languages.diagnostics.on: file:///home/ec2-user/README.md
+[Debug 19:32:31.698] LinkProvider: compute - file:///home/ec2-user/README.md
+[Debug 19:32:31.910] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/README.md 2
+[Debug 19:32:31.910] TableOfContentsProvider: create - file:///home/ec2-user/README.md
+[Trace 19:43:46.184] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/ec2-user/petclinic-microservices-with-db/README.md
+[Trace 19:45:12.061] Server: connection.languages.diagnostics.on: file:///home/ec2-user/README.md
+[Trace 19:47:03.994] Server: connection.languages.diagnostics.on: file:///home/ec2-user/README.md
+[Debug 19:47:04.193] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/README.md 2
